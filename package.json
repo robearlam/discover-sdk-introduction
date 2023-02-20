@@ -10,6 +10,7 @@
     "prettier-fix": "prettier --write ."
   },
   "devDependencies": {
+    "@sitecore-discover/cli": "1.0.0-alpha.19",
     "husky": "^8.0.1",
     "prettier": "^2.7.1",
     "turbo": "^1.4.6"
